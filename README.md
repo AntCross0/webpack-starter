@@ -2,4 +2,25 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
-Pero esto lo veremos en la siguiente sección
+### Notas: 
+Para construir los modulos de node, utilizamos:
+
+```
+npm install
+```
+Para renderizar en modo produccion:
+
+```
+npm run build
+```
+
+Para compilar en modo dev:
+```
+npm run build:dev
+```
+
+para inicializar el servidor local:
+
+```
+npm start
+```
